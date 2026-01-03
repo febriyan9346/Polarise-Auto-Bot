@@ -1,8 +1,3 @@
-# Add your private keys here (one per line)
-# Example:
-# 0xYourPrivateKey1
-# 0xYourPrivateKey2
-# 0xYourPrivateKey3
-
-# WARNING: NEVER share or commit your actual private keys!
-# This is just an example file. Rename to accounts.txt and add your keys.
+0xYourPrivateKey1
+0xYourPrivateKey2
+0xYourPrivateKey3
